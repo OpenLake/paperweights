@@ -7,7 +7,7 @@ paperweights
         :target: https://pypi.python.org/pypi/paperweights
 
 .. image:: https://img.shields.io/travis/OpenLake/paperweights.svg
-        :target: https://travis-ci.com/OpenLake/paperweights
+        :target: https://travis-ci.org/OpenLake/paperweights
 
 .. image:: https://readthedocs.org/projects/paperweights/badge/?version=latest
         :target: https://paperweights.readthedocs.io/en/latest/?badge=latest
